@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقعي الأول</title>
+
+    <style>
+        body {
+            font-family: "Tahoma", sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            padding-top: 60px;
+        }
+
+        h1 {
+            color: #2a71d0;
+            font-size: 36px;
+        }
+
+        p {
+            color: #333;
+            font-size: 20px;
+        }
+
+        .box {
+            background: white;
+            margin: 40px auto;
+            padding: 25px;
+            width: 60%;
+            border-radius: 12px;
+            box-shadow: 0 0 12px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <h1>أهلاً في موقعي</h1>
+        <pالمواقع خطوة بخطوة 🔥</p>
+    </div>
+</body>
+</html>
